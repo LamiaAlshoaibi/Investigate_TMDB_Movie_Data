@@ -9,9 +9,9 @@ The goal of this investigation is to analyze insights about movie features to he
  
 ##### This project contains 3 files:
 
-tmdb-movies.csv: The dataset file containing 10k+ entries of TMDB movies.
-investigate-a-dataset-TMDB.ipynb: The investigation of the dataset has been done in this jupyter notebook file.
-investigate-a-dataset-TMDB.html :  HTML file of notebook.
+- tmdb-movies.csv: The dataset file containing 10k+ entries of TMDB movies.
+- investigate-a-dataset-TMDB.ipynb: The investigation of the dataset has been done in this jupyter notebook file.
+- investigate-a-dataset-TMDB.html :  HTML file of notebook.
 
 
 ##### What do I need to install?
